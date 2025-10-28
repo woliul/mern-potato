@@ -25,8 +25,4 @@ We will use the patient admission scenario as a concrete problem space to practi
 4.  React Hooks and **Global State Management** (Context/Zustand).
 5.  Building mobile-first interfaces and the initial foundation for **User Authentication**.
 
-The detailed, day-by-day plan can be found in **`PLAN.md`**.
-
-### Next Steps
-
-Start immediately with **Day 1** in **`PLAN.md`** to begin mastering JS fundamentals!
+The detailed, day-by-day plan can be found in [**`PLAN.md`**](https://github.com/woliul/mern-potato/blob/main/PLAN.md).
